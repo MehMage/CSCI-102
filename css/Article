@@ -1,0 +1,33 @@
+﻿
+
+h1 {
+    line-height: 200%;
+}
+
+h2 {
+    text-align: center;
+}
+
+#photocredit {
+    font-size: xx-small;
+    text-align: center;
+    padding-right: 25em;
+}
+
+nav {
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    background-color: white;
+    font-size: 0.60em;
+    font-style: italic;
+    text-align: center;
+}
+
+#wrapper {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
