@@ -57,6 +57,9 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border: 2px solid #221811;
+    border-bottom: none;
+    border-left: none;
 }
 
 li a:hover {
@@ -65,3 +68,4 @@ li a:hover {
 .clearleft {
     clear: left;
 }
+#borderLeftFix {border-left: 2px solid #221811;}
