@@ -1,0 +1,41 @@
+h2{
+    
+    text-align: center;
+}
+#photodescription{
+    font-size: x-small;
+    text-align: center;
+    padding-right: 25em;
+    color: gray;
+}
+
+#author{
+    padding: 1em;
+}
+
+#text{
+    padding: 1em;
+}
+
+h3{
+    text-align: center;
+    padding-right: 1.4em;
+}
+
+table{
+    margin: auto;
+    border-spacing: 0;
+}
+
+td{
+    padding: 5px;
+    color: black;
+}
+
+table a{
+    text-decoration: none;
+}
+
+table a:link {color:black}
+table a:visited{color: black}
+table a:hover{color:black}
