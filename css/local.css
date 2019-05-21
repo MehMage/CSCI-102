@@ -1,0 +1,22 @@
+.box{
+    width: 30%;
+    float: left;
+    padding:25px;
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+    border:1px solid;
+    border-radius:1.5em;
+}
+.box h3{
+    padding-bottom:5px;
+}
+.clearfix{
+    clear:both;
+}
+main h2{
+    padding:10px;
+}
+main p{
+    padding-bottom:10px;
+}
