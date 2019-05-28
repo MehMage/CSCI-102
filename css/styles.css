@@ -66,6 +66,28 @@ li a {
     margin: 0;
 }
 
+/* Drop Down Menu */
+nav ul li ul{
+    position:absolute;
+    margin:0;
+    display:none;
+}
+
+nav ul li:hover ul{
+    display:block;
+}
+
+nav ul li ul li{
+    display:block;
+}
+
+nav ul li ul a{
+    display:block;
+    margin:0;
+    padding:20px;
+}
+/* End of Drop Down Menu */
+
 li a:hover {
     background-color: rgb(192, 192, 192);
 }
