@@ -1,12 +1,17 @@
 .box{
-    width: 30%;
+    width: 55%;
     float: left;
     padding:25px;
     padding-top: 10px;
-    margin-left: 10px;
-    margin-right:10px;
+    margin-left: 20px;
+    margin-right:20px;
     border:1px solid;
     border-radius:1.5em;
+}
+.box img{
+    height:200px;
+    width:300px;
+    padding:0;
 }
 .box h3{
     padding-bottom:5px;
@@ -18,5 +23,5 @@ main h2{
     padding:10px;
 }
 main p{
-    padding-bottom:10px;
+    padding-bottom:20px;
 }
