@@ -1,6 +1,7 @@
 .headline {
     border: 2px solid black;
     float: left;
+    width:100%;
     margin-left: 0;
     padding-left: 0;
     margin-top: 12px;
@@ -9,8 +10,8 @@
     border-bottom: 2px rgb(38, 109, 216) solid;
     text-align: center;
     color: black;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 20;
+    margin-bottom: 020;
 }
 .headline h2 {
     background-color: rgb(38, 109, 216);
@@ -24,6 +25,9 @@
     height: 100%;
     overflow: visible;
 }
-#noborder {
+#noborder{
     border-bottom: none;
+}
+footer{
+    padding-top:20px;
 }
