@@ -1,12 +1,14 @@
 h2{
     
     text-align: center;
+    padding-top: 1em;
 }
 #photodescription{
     font-size: x-small;
     text-align: center;
-    padding-right: 25em;
+    
     color: gray;
+    
 }
 
 #author{
