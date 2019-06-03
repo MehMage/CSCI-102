@@ -96,3 +96,5 @@ li a:hover {
     clear: left;
 }
 #borderLeftFix {border-left: 2px solid #221811;}
+
+#borderBottomFix {border-bottom: 2px solid #221811; border-left: 2px solid #221811;}
