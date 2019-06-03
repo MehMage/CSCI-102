@@ -3,3 +3,31 @@ table, tr, th, td{
     border-collapse: collapse;
     padding:15px;
 }
+img{
+    height:275px;
+    width:400px;
+}
+input{
+    border-radius:1.6em;
+    border:1px solid #ccc;
+    padding:0.6em;
+}
+textarea{
+    border-radius:1.6em;
+    border:1px solid #ccc;
+    padding:0.6em;
+}
+input[type='submit']{
+    margin-left: 110px;
+    color: white;
+    padding:1em 3em;
+    background-color: black;
+    border:0;
+}
+label{
+    float:left;
+    width: 100px;
+    padding-right: 10px;
+    margin-top:15px;
+    
+}
