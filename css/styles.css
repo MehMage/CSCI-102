@@ -75,6 +75,7 @@ nav ul li ul{
 
 nav ul li:hover ul{
     display:block;
+    background-color: rgb(192, 192, 192);
 }
 
 nav ul li ul li{
